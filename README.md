@@ -13,7 +13,7 @@ This project uses a Recurrent Neural Network (RNN) to predict stock prices. The 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Stock-Prediction-using-RNN.git
+   git clone https://github.com/Rohyit/Stock-Prediction-using-RNN.git
 
 2. Install the required packages:
    pip install -r requirements.txt
